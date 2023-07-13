@@ -1,23 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Navbar from './Components/headder/Navbar';
+import Main from './Components/main/Main';
+import Aboutus from './Components/about us/Aboutus';
+import Gameplay from './Components/gameplay/Gameplay';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App area">
+      <ul class="circles">
+      <BrowserRouter basename="/">
+        <Routes>
+          <Route path='/' element={<><Navbar /><Main/></>}/>
+          <Route path='/Aboutus' element={<Aboutus/>}/>
+          <Route path='/Gameplay' element={<Gameplay/>}/>
+        </Routes>
+      </BrowserRouter>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+            </ul>
+      
     </div>
   );
 }
