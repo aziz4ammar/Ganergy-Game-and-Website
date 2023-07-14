@@ -3,6 +3,9 @@ import mlog from "../img/logo copie5 copie3.png";
 import energy from "../img/aaa.png";
 import garbage from "../img/bbb.png";
 import gun from "../img/ccc.png";
+import code from "../img/code.png";
+import code2 from "../img/code2.png";
+
 
 const Main = () => {
   return (
@@ -25,6 +28,12 @@ const Main = () => {
                 <img className='energy' src={energy} alt="" />
                 <h2 id='mh3' class='lineUp'>Energy</h2>
             </div>
+        </div>
+        <div id='log1' className='mlog'>
+            <img src={code} alt="" />
+        </div>
+        <div id='log2' className='mlog'>
+            <img src={code2} alt="" />
         </div>
     </div>
   )
