@@ -376,6 +376,7 @@
 .big-container-aboutus{
   display: flex;
   justify-content: space-around;
+  /* display: flex; */
 }
 #aboutus-container{
   display: flex;
