@@ -372,7 +372,7 @@
   top: -100px;
   animation: 4s anim-lineUp ease-out ;
 }
-/* About us settings */
+/* About us setting */
 .big-container-aboutus{
   display: flex;
   justify-content: space-around;
