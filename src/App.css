@@ -471,10 +471,10 @@ margin-right: 350px;
   position: absolute;
   right: -1000px;
 }
-/* #img-container2{
+#img-container2{
   position: absolute;
   right: -800px;
-} */
+}
 .game-img1{
   width: 400px;
   margin-left: 4px;
