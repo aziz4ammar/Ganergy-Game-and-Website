@@ -22,7 +22,7 @@ function App() {
           <input id="check" type="checkbox" checked={isChecked} onChange={handleCheckboxChange} />
           <span className="slider round"></span>
       </label>
-      
+      <ul class="circles">
       <BrowserRouter basename="/">
         <Routes>
           <Route path='/' element={<><Navbar/>
