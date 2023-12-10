@@ -23,7 +23,7 @@ function App() {
           <span className="slider round"></span>
       </label>
       <ul class="circles">
-      <BrowserRouter 
+      <BrowserRouter basename="/">
         <Routes>
           <Route path='/' element={<><Navbar/>
           <Main/></>}/>
