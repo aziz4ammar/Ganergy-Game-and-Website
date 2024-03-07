@@ -6,7 +6,7 @@ import jihed from "../img/jij intro.png";
 
 const Aboutus = () => {
   return (
-    <div >
+    <div className='big-container-aboutus'>
         <Navbar/>
         <img id='mi' src={mlog} alt="" />
         <div id='aboutus-container'>
