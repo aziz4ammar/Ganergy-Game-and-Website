@@ -25,7 +25,7 @@ function App() {
       <ul class="circles">
       <BrowserRouter basename="/">
         <Routes>
-          {/* <Route path='/' element={<><Navbar/> */}
+          <Route path='/' element={<><Navbar/>
           <Main/></>}/>
           <Route path='/Aboutus' element={<Aboutus />}/>
           <Route path='/Gameplay' element={<Gameplay/>}/>
