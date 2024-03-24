@@ -28,7 +28,7 @@ function App() {
           <Route path='/' element={<><Navbar/>
           <Main/></>}/>
           <Route path='/Aboutus' element={<Aboutus />}/>
-          {/* <Route path='/Gameplay' element={<Gameplay/>}/> */}
+          <Route path='/Gameplay' element={<Gameplay/>}/>
         </Routes>
       </BrowserRouter>
                     <li></li>
