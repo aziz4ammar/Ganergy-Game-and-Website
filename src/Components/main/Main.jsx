@@ -33,7 +33,7 @@ const Main = () => {
             <img src={code} alt="" />
         </div>
         <div id='log2' className='mlog'>
-            {/* <img src={code2} alt="" /> */}
+            <img src={code2} alt="" />
         </div>
     </div>
   )
