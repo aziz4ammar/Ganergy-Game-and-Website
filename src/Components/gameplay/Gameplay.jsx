@@ -13,7 +13,7 @@ const Gameplay = () => (
         <div className='big-gameplay-container'>
             <div className='gameplay-container'>
                 <div className='gameplay-border'> <img className='game-img1' src={enemies} alt="" />
-                {/* <h2>Gravity-Gun that pulls trash from a distance</h2> */}
+                <h2>Gravity-Gun that pulls trash from a distance</h2>
                 </div>
                 <div id='img-container1' className='gameplay-border'><img className='game-img1' src={map} alt="" />
                 <h2>Big Map to enjoy the game</h2>
