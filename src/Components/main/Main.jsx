@@ -14,7 +14,7 @@ const Main = () => {
         <div id='b1' class="block moving-glow">
             <div class="line">
                 <img className='garbage' src={garbage} alt="" />
-                <h2 id='mh1' class='lineUp'>Garbage</h2>
+                {/* <h2 id='mh1' class='lineUp'>Garbage</h2> */}
             </div>
         </div>
         <div id='b2' class="block moving-glow">
