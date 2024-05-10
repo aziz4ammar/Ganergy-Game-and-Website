@@ -26,7 +26,7 @@ const Main = () => {
         <div id='b3' class="block moving-glow">
             <div class="line">
                 <img className='energy' src={energy} alt="" />
-                {/* <h2 id='mh3' class='lineUp'>Energy</h2> */}
+                <h2 id='mh3' class='lineUp'>Energy</h2>
             </div>
         </div>
         <div id='log1' className='mlog'>
