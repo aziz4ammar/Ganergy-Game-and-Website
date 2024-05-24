@@ -32,7 +32,7 @@ const Main = () => {
         <div id='log1' className='mlog'>
             <img src={code} alt="" />
         </div>
-        <div id='log2' className='mlog'>
+        {/* <div id='log2' className='mlog'> */}
             <img src={code2} alt="" />
         </div>
     </div>
