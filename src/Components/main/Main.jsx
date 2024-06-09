@@ -35,6 +35,9 @@ const Main = () => {
         <div id='log2' className='mlog'>
             <img src={code2} alt="" />
         </div>
+        <div>
+            <h1>compile</h1>
+        </div>
     </div>
   )
 }
