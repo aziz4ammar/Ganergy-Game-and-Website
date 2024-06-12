@@ -9,7 +9,7 @@ import code2 from "../img/code2.png";
 
 const Main = () => {
   return (
-    <div className=''>
+    <div className='m-container'>
         <img id='mi' src={mlog} alt="" />
         <div id='b1' class="block moving-glow">
             <div class="line">
