@@ -19,11 +19,11 @@ const Gameplay = () => (
                 <h2>Big Map to enjoy the game</h2>
                 </div>
             </div>
-            <div className='gameplay-second-container'>
+            {/* <div className='gameplay-second-container'>
                 <div id='img-game-3' className='gameplay-border'><img className='game-img1' src={generator} alt="" />
                 <h2>Generator that turns trash into energy</h2>
                 </div>
-            </div>
+            </div> */}
         </div>
     </div>
 )
