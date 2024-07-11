@@ -31,6 +31,7 @@ function App() {
           <Route path='/Gameplay' element={<Gameplay/>}/>
         </Routes>
       </BrowserRouter>
+                    {/* <li></li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -39,8 +40,7 @@ function App() {
                     <li></li>
                     <li></li>
                     <li></li>
-                    <li></li>
-                    <li></li>
+                    <li></li> */}
             </ul>
       
     </div>
