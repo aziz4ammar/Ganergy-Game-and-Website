@@ -11,7 +11,7 @@ const Aboutus = () => {
         <img id='mi' src={mlog} alt="" />
         <div id='aboutus-container'>
           <div id='aziz' className='rainbow'><img className='intro' src={aziz} alt="" /></div>
-          {/* <div className='rainbow'><img className='intro' id='jiji' src={jihed} alt="" /></div> */}
+          <div className='rainbow'><img className='intro' id='jiji' src={jihed} alt="" /></div>
         </div>
     </div>
   )
