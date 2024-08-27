@@ -9,10 +9,10 @@ const Aboutus = () => {
     <div className='big-container-aboutus'>
         <Navbar/>
         <img id='mi' src={mlog} alt="" />
-        {/* <div id='aboutus-container'>
+        <div id='aboutus-container'>
           <div id='aziz' className='rainbow'><img className='intro' src={aziz} alt="" /></div>
           <div className='rainbow'><img className='intro' id='jiji' src={jihed} alt="" /></div>
-        </div> */}
+        </div>
     </div>
   )
 }
