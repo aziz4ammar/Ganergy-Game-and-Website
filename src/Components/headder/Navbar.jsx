@@ -21,9 +21,9 @@ const Navbar = () => {
                 <Link to="/">
                     <img id='i2' src={logo} alt="" />
                 </Link>
-                {/* <Link to="/Aboutus" style={linkStyle}>
+                <Link to="/Aboutus" style={linkStyle}>
                     <span id='t2' className="logo-text">About us</span>
-                </Link> */}
+                </Link>
                 
             </nav>
     </div>
