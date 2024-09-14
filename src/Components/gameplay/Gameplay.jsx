@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../headder/Navbar'
 import mlog from "../img/logo copie5 copie3.png";
-// import enemies from "../img/enemies.png"
+import enemies from "../img/enemies.png"
 import map from "../img/map.png"
 import generator from "../img/generator.png"
 
