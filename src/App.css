@@ -259,6 +259,7 @@
   left: -4px;
   top: -4px;
   background: linear-gradient(45deg, #FADA5E, #e0d693, #ffff00,#ffff00, #ffff00, #FADA5E, 
+  #FFF200, #F8DE7E,#ffff00, #FFD300);
   background-size: 400%;
   width: calc(100% + 10px);
   height: calc(100% + 10px);
