@@ -18,9 +18,9 @@ const Navbar = () => {
                 <Link to="/Gameplay" style={linkStyle}>
                     <span id='t1' className="logo-text" >Gameplay</span>
                 </Link>
-                {/* <Link to="/">
+                <Link to="/">
                     <img id='i2' src={logo} alt="" />
-                </Link> */}
+                </Link>
                 <Link to="/Aboutus" style={linkStyle}>
                     <span id='t2' className="logo-text">About us</span>
                 </Link>
