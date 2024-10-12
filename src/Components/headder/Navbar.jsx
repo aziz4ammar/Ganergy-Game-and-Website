@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div>
             <nav class="navbar">
-                {/* <Link to="/" > 
+                <Link to="/" > 
                     <img id='i1' src={copy2} alt="" />
                 </Link>
                 <Link to="/Gameplay" style={linkStyle}>
@@ -23,7 +23,7 @@ const Navbar = () => {
                 </Link>
                 <Link to="/Aboutus" style={linkStyle}>
                     <span id='t2' className="logo-text">About us</span>
-                </Link> */}
+                </Link>
                 
             </nav>
     </div>
