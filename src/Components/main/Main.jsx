@@ -29,12 +29,12 @@ const Main = () => {
                 <h2 id='mh3' class='lineUp'>Energy</h2>
             </div>
         </div>
-        <div id='log1' className='mlog'>
+        {/* <div id='log1' className='mlog'>
             <img src={code} alt="" />
         </div>
         <div id='log2' className='mlog'>
             <img src={code2} alt="" />
-        </div>
+        </div> */}
     </div>
   )
 }
