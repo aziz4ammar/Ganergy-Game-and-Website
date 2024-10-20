@@ -12,9 +12,9 @@ const Navbar = () => {
     return (
         <div>
             <nav class="navbar">
-                {/* <Link to="/" > 
+                <Link to="/" > 
                     <img id='i1' src={copy2} alt="" />
-                </Link> */}
+                </Link>
                 <Link to="/Gameplay" style={linkStyle}>
                     <span id='t1' className="logo-text" >Gameplay</span>
                 </Link>
