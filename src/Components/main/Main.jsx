@@ -17,12 +17,12 @@ const Main = () => {
                 <h2 id='mh1' class='lineUp'>Garbage</h2>
             </div>
         </div>
-        <div id='b2' class="block moving-glow">
+        {/* <div id='b2' class="block moving-glow">
             <div class="line">
                 <img className='gun' src={gun} alt="" />
                 <h2 id='mh2' class='lineUp'>Gun</h2>
             </div>
-        </div>
+        </div> */}
         <div id='b3' class="block moving-glow">
             <div class="line">
                 <img className='energy' src={energy} alt="" />
