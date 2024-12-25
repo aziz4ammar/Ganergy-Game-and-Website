@@ -21,7 +21,7 @@ const Gameplay = () => (
             </div>
             <div className='gameplay-second-container'>
                 <div id='img-game-3' className='gameplay-border'><img className='game-img1' src={generator} alt="" />
-                {/* <h2>Generator that turns trash into energy</h2> */}
+                <h2>Generator that turns trash into energy</h2>
                 </div>
             </div>
         </div>
