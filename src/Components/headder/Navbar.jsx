@@ -4,9 +4,9 @@ import copy2 from "../img/logo copie 2 copie.png";
 import { Link } from 'react-router-dom';
 
 
-const linkStyle = {
-    textDecoration: 'none'
-};
+// const linkStyle = {
+//     textDecoration: 'none'
+// };
 const Navbar = () => {
 
     return (
