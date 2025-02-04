@@ -9,7 +9,7 @@ import generator from "../img/generator.png"
 const Gameplay = () => (
     <div>
         <Navbar />
-        {/* <img id='gi' src={mlog} alt="" /> */}
+        <img id='gi' src={mlog} alt="" />
         <div className='big-gameplay-container'>
             <div className='gameplay-container'>
                 <div className='gameplay-border'> <img className='game-img1' src={enemies} alt="" />
