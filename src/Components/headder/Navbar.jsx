@@ -16,7 +16,7 @@ const Navbar = () => {
                     <img id='i1' src={copy2} alt="" />
                 </Link>
                 <Link to="/Gameplay" style={linkStyle}>
-                    {/* <span id='t1' className="logo-text" >Gameplay</span> */}
+                    <span id='t1' className="logo-text" >Gameplay</span>
                 </Link>
                 <Link to="/">
                     <img id='i2' src={logo} alt="" />
